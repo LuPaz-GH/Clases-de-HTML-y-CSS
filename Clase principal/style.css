@@ -1,0 +1,26 @@
+body {
+    background-color: rgba(183, 162, 251, 0.857);
+}
+
+h2 {
+  .pacifico-regular {
+  font-family:fantasy ;
+  font-weight: 400;
+  font-style: normal;
+}
+;
+}
+h3 {
+    font-family: cursive;
+    color: black;
+}
+
+
+img [src] {
+    border-radius: 50%;
+   
+}
+
+p {
+    font-family: fantasy;
+}
